@@ -73,4 +73,4 @@ The project involves developing a machine learning model to predict housing pric
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/california-housing-prediction.git
+   git clone https://github.com/Sandrakimiring/california-housing-prediction.git
